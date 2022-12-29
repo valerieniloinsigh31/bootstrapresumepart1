@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
-
 /* ------------- Colours */
 
 .bg-color-name-title {
@@ -69,6 +68,11 @@ header {
 .menucontainer {
     font-size: 0;
 }
+
+#nav {
+    margin:0;
+}
+
 
 #nav li {
     font-size: 14px;
